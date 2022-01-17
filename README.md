@@ -1,1 +1,1 @@
-# Catalog of X-ray Detected Be Star
+# Catalog of X-ray Detected Be Stars
