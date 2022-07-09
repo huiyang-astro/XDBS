@@ -1,4 +1,4 @@
-index,name,col2,ra,dec,mag,type,col7,col8
+#,Be star,Category,RA,DEC,V,Type,vsini,Nb of spectra in BeSS
 1,BD+62 2346,Classical,00 01 24.70,63 30 15.73,9.73,B0Ve,,3
 2,HD 224905,Classical,00 01 38.63,60 26 59.72,8.47,B1Vne,,85
 3,HD 225095,Classical,00 03 27.15,55 33 03.23,7.95,B2IVne,,234
