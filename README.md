@@ -16,5 +16,5 @@ This github repo presents a catalog of the multi-wavelength properties of 177 Be
 
 #### XDBS catalog column description
 
-![alt text](https://github.com/huiyang-astro/XDBS/blob/main/XDBS_column_description.png)
+![alt text](https://github.com/huiyang-astro/XDBS/blob/main/XDBS_column_descriptions.png)
 
