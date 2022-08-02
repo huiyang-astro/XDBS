@@ -1,90 +1,90 @@
-Title:
-Authors:
-Table:
+Title: Catalog of X-ray Detected Be Stars (XDBS)
+Authors: Caden Gobat, Hui Yang, Oleg Kargaltsev, Jeremy Hare, and Igor Volkov
+Table: Multi-wavelength Properties and Classification of X-ray Detected Be stars
 ================================================================================
-Byte-by-byte Description of file: table.dat
+Byte-by-byte Description of file: XDBS.dat
 --------------------------------------------------------------------------------
  Bytes Format Units  Label     Explanations
 --------------------------------------------------------------------------------
-  1- 25  A25    ---    Be_star       Description of Be_star
- 27- 35  A9     ---    Type          Description of Type
- 37- 46  F10.6  ---    RA            Description of RA
- 48- 57  F10.6  ---    DEC           Description of DEC
- 59- 61  A3     ---    Xcat          Description of Xcat
- 63- 78  A16    ---    Xidentifier   Description of Xidentifier
- 80- 84  F5.2   ---    Gamma         [-0.73/8.74]? Description of Gamma
- 86- 89  F4.2   ---    e_Gamma       [0.01/1.07]? Description of e_Gamma
- 91- 94  F4.2   ---    E_Gamma       [0.01/3.4]? Description of E_Gamma
- 96-106  E11.6  ---    Fb            [0.0/0.01] Description of Fb
-108-118  E11.6  ---    e_Fb          [0.0/0.01] Description of e_Fb
-120-130  E11.6  ---    E_Fb          [0.0/0.01] Description of E_Fb
-132-142  E11.6  ---    Fs            [0.0/0.01] Description of Fs
-144-154  E11.6  ---    e_Fs          [0.0/0.01] Description of e_Fs
-156-166  E11.6  ---    E_Fs          [0.0/0.01] Description of E_Fs
-168-178  E11.6  ---    Fm            [0.0/0.01] Description of Fm
-180-190  E11.6  ---    e_Fm          [0.0/0.01] Description of e_Fm
-192-202  E11.6  ---    E_Fm          [0.0/0.01] Description of E_Fm
-204-214  E11.6  ---    Fh            [0.0/0.01] Description of Fh
-216-226  E11.6  ---    e_Fh          [0.0/0.01] Description of e_Fh
-228-238  E11.6  ---    E_Fh          [0.0/0.01] Description of E_Fh
-240-245  F6.3   ---    HRms          [-1.0/1.0]? Description of HRms
-247-252  F6.3   ---    e_HRms        [0.0/18.12]? Description of e_HRms
-254-259  F6.3   ---    E_HRms        [0.0/17.36]? Description of E_HRms
-261-266  F6.3   ---    HRhm          [-1.0/1.0]? Description of HRhm
-268-273  F6.3   ---    e_HRhm        [0.0/26.34]? Description of e_HRhm
-275-280  F6.3   ---    E_HRhm        [0.0/26.15]? Description of E_HRhm
-282-313  A32    ---    DR3Name       Description of DR3Name
-315-320  F6.3   ---    PM            [0.42/50.14]? Description of PM
-322-339  F18.16 ---    e_PM          [0.01/1.07]? Description of e_PM
-341-345  F5.3   ---    epsi          ? Description of epsi
-347-355  E9.4   ---    sepsi         ? Description of sepsi
-357-362  F6.3   ---    RUWE          [0.58/37.98]? Description of RUWE
-364-372  F9.6   ---    G             [2.06/20.11]? Description of G
-374-381  F8.6   ---    e_G           [0.0/0.03]? Description of e_G
-383-391  F9.6   ---    BP            [2.72/20.13]? Description of BP
-393-400  F8.6   ---    e_BP          [0.0/0.19]? Description of e_BP
-402-410  F9.6   ---    RP            [2.31/19.04]? Description of RP
-412-419  F8.6   ---    e_RP          [0.0/0.07]? Description of e_RP
-421-427  F7.1   ---    Teff          [5190.3/41504.0]? Description of Teff
-429-440  E12.7  ---    Gflux         [0.0/0.01]? Description of Gflux
-442-453  E12.7  ---    e_Gflux       [0.0/0.01]? Description of e_Gflux
-455-466  E12.7  ---    E_Gflux       [0.0/0.01]? Description of E_Gflux
-468-475  F8.2   ---    rgeo          [108.94/38760.67]? Description of rgeo
-477-484  F8.2   ---    e_rgeo        [0.63/10416.07]? Description of e_rgeo
-486-493  F8.2   ---    E_rgeo        [0.65/29266.7]? Description of E_rgeo
-495-500  F6.3   ---    J             [0.81/16.79]? Description of J
-502-506  F5.3   ---    e_J           [0.01/0.31]? Description of e_J
-508-513  F6.3   ---    H             [0.86/16.32]? Description of H
-515-519  F5.3   ---    e_H           [0.01/0.32]? Description of e_H
-521-526  F6.3   ---    K             [0.88/16.51]? Description of K
-528-532  F5.3   ---    e_K           [0.01/0.37]? Description of e_K
-534-539  F6.3   ---    W1            [-0.92/15.66]? Description of W1
-541-546  F6.3   ---    e_W1          [-0.02/0.35]? Description of e_W1
-548-553  F6.3   ---    W2            [-0.73/15.44]? Description of W2
-555-560  F6.3   ---    e_W2          [-0.04/0.29]? Description of e_W2
-562-567  F6.3   ---    W3            [-1.56/13.58]? Description of W3
-569-573  F5.3   ---    e_W3          ? Description of e_W3
-575-580  F6.3   ---    W4            [-4.79/9.97]? Description of W4
-582-586  F5.3   ---    e_W4          ? Description of e_W4
-588-590  F3.0   ---    Vsini         ? Description of Vsini
-592-594  F3.0   ---    Vtran         [1.83/249.51]? Description of Vtran
-596-598  F3.0   ---    E_Vtran       [0.02/188.43]? Description of E_Vtran
-600-601  F2.0   ---    e_Vtran       [0.02/76.83]? Description of e_Vtran
-603-614  E12.7  ---    LX
+  1- 25  A25    ---    Be_star       BeSS name
+ 27- 35  A9     ---    Type          BeSS Stellar spectral type
+ 37- 46  F10.6  deg    RA            Optical right ascension
+ 48- 57  F10.6  deg    DEC           Optical declination
+ 59- 61  A3     ---    Xcat          Which X-ray catalog was used to determine fluxes
+ 63- 78  A16    ---    Xidentifier   X-ray catalog source name or identifier
+ 80- 84  F5.2   ---    Gamma         X-ray spectral photon index
+ 86- 89  F4.2   ---    e_Gamma       [0.01/1.07]? The 1-sigma negative uncertainty of Gamma
+ 91- 94  F4.2   ---    E_Gamma       [0.01/3.4]? The 1-sigma positive uncertainty of Gamma
+ 96-106  E11.6  mW/m2  Fb            [0.0/0.01] Broad-band X-ray flux (0.5–7 keV)
+108-118  E11.6  mW/m2  e_Fb          [0.0/0.01] The 1-sigma negative uncertainty of Fb
+120-130  E11.6  mW/m2  E_Fb          [0.0/0.01] The 1-sigma positive uncertainty of Fb
+132-142  E11.6  mW/m2  Fs            [0.0/0.01] Soft-band X-ray flux (0.5–1.2 keV)
+144-154  E11.6  mW/m2  e_Fs          [0.0/0.01] The 1-sigma negative uncertainty of Fs
+156-166  E11.6  mW/m2  E_Fs          [0.0/0.01] The 1-sigma positive uncertainty of Fs
+168-178  E11.6  mW/m2  Fm            [0.0/0.01] Medium-band X-ray flux (1.2–2 keV)
+180-190  E11.6  mW/m2  e_Fm          [0.0/0.01] The 1-sigma negative uncertainty of Fm
+192-202  E11.6  mW/m2  E_Fm          [0.0/0.01] The 1-sigma positive uncertainty of Fm
+204-214  E11.6  mW/m2  Fh            [0.0/0.01] Hard-band X-ray flux (2–7 keV)
+216-226  E11.6  mW/m2  e_Fh          [0.0/0.01] The 1-sigma negative uncertainty of Fh
+228-238  E11.6  mW/m2  E_Fh          [0.0/0.01] The 1-sigma positive uncertainty of Fh
+240-245  F6.3   ---    HRms          [-1.0/1.0]? Medium-Soft Hardness Ratio (Fm–Fs)/(Fm+Fs)
+247-252  F6.3   ---    e_HRms        [0.0/18.12]? The 1-sigma negative uncertainty of HRms
+254-259  F6.3   ---    E_HRms        [0.0/17.36]? The 1-sigma positive uncertainty of HRms
+261-266  F6.3   ---    HRhm          [-1.0/1.0]? Hard-Medium Hardness Ratio (Fh–Fm)/(Fh+Fm)
+268-273  F6.3   ---    e_HRhm        [0.0/26.34]? The 1-sigma negative uncertainty of HRhm
+275-280  F6.3   ---    E_HRhm        [0.0/26.15]? The 1-sigma positive uncertainty of HRhm
+282-313  A32    ---    DR3Name       Gaia DR3 Name
+315-320  F6.3   mas/yr PM            [0.42/50.14]? Gaia Proper motion
+322-339  F18.16 mas/yr e_PM          [0.01/1.07]? The 1-sigma uncertainty of PM
+341-345  F5.3   mas    epsi          ? Gaia Excess noise
+347-355  E9.4   ---    sepsi         ? Gaia Significance of excess noise
+357-362  F6.3   ---    RUWE          [0.58/37.98]? Gaia Renormalised unit weight error
+364-372  F9.6   mag    G             [2.06/20.11]? Gaia G band magnitude
+374-381  F8.6   mag    e_G           [0.0/0.03]? The 1-sigma uncertainty of G
+383-391  F9.6   mag    BP            [2.72/20.13]? Gaia BP band magnitude
+393-400  F8.6   mag    e_BP          [0.0/0.19]? The 1-sigma uncertainty of BP
+402-410  F9.6   mag    RP            [2.31/19.04]? Gaia RP band magnitude
+412-419  F8.6   mag    e_RP          [0.0/0.07]? The 1-sigma uncertainty of RP
+421-427  F7.1   K      Teff          [5190.3/41504.0]? Gaia Effective temperature
+429-440  E12.7  mW/m2  Gflux         [0.0/0.01]? Optical (G band) flux
+442-453  E12.7  mW/m2  e_Gflux       [0.0/0.01]? The 1-sigma negative uncertainty of Gflux
+455-466  E12.7  mW/m2  E_Gflux       [0.0/0.01]? The 1-sigma positive uncertainty of Gflux
+468-475  F8.2   pc     rgeo          [108.94/38760.67]? Gaia eDR3 geometric distance
+477-484  F8.2   pc     e_rgeo        [0.63/10416.07]? The 1-sigma negative uncertainty of rgeo
+486-493  F8.2   pc     E_rgeo        [0.65/29266.7]? The 1-sigma positive uncertainty of rgeo
+495-500  F6.3   mag    J             [0.81/16.79]? 2MASS J band magnitude
+502-506  F5.3   mag    e_J           [0.01/0.31]? The 1-sigma uncertainty of J
+508-513  F6.3   mag    H             [0.86/16.32]? 2MASS H band magnitude
+515-519  F5.3   mag    e_H           [0.01/0.32]? The 1-sigma uncertainty of H
+521-526  F6.3   mag    K             [0.88/16.51]? 2MASS K band magnitude
+528-532  F5.3   mag    e_K           [0.01/0.37]? The 1-sigma uncertainty of K
+534-539  F6.3   mag    W1            [-0.92/15.66]? WISE W1 band magnitude
+541-546  F6.3   mag    e_W1          [-0.02/0.35]? The 1-sigma uncertainty of W1
+548-553  F6.3   mag    W2            [-0.73/15.44]? WISE W2 band magnitude
+555-560  F6.3   mag    e_W2          [-0.04/0.29]? The 1-sigma uncertainty of W2
+562-567  F6.3   mag    W3            [-1.56/13.58]? WISE W3 band magnitude
+569-573  F5.3   mag    e_W3          ? The 1-sigma uncertainty of W3
+575-580  F6.3   mag    W4            [-4.79/9.97]? WISE W4 band magnitude
+582-586  F5.3   mag    e_W4          ? The 1-sigma uncertainty of W4
+588-590  F3.0   km/s   Vsini         ? BeSS projected rotational velocity
+592-594  F3.0   km/s   Vtran         [1.83/249.51]? Transverse velocity
+596-598  F3.0   km/s   E_Vtran       [0.02/188.43]? The 1-sigma positive uncertainty of Vtran
+600-601  F2.0   km/s   e_Vtran       [0.02/76.83]? The 1-sigma negative uncertainty of Vtran
+603-614  E12.7  10-7W  LX
                                     [1.105842332563746e+28/1.326642814384678e+36
-                                    ]? Description of LX
-616-627  E12.7  ---    e_LX
+                                    ]? X-ray broadband luminosity
+616-627  E12.7  10-7W  e_LX
                                     [2.850791857312253e+27/7.158203998584135e+35
-                                    ]? Description of e_LX
-629-640  E12.7  ---    E_LX
+                                    ]? The 1-sigma negative uncertainty of LX
+629-640  E12.7  10-7W  E_LX
                                     [2.843101963511816e+27/8.52626620032176e+35]
-                                    ? Description of E_LX
-642-653  E12.7  ---    fX2O          [0.0/94.75]? Description of fX2O
-655-666  E12.7  ---    e_fX2O        [0.0/2.87]? Description of e_fX2O
-668-679  E12.7  ---    E_fX2O        [0.0/2.82]? Description of E_fX2O
-    681  I1     ---    matching_flag ? Description of matching_flag
-683-698  A16    ---    Class         Description of Class
-700-735  A36    ---    ref           Description of ref
+                                    ? The 1-sigma positive uncertainty of LX
+642-653  E12.7  ---    fX2O          [0.0/94.75]? (Broadband) X-ray to (G band) optical flux ratio
+655-666  E12.7  ---    e_fX2O        [0.0/2.87]? The 1-sigma negative uncertainty of fX2O
+668-679  E12.7  ---    E_fX2O        [0.0/2.82]? The 1-sigma positive uncertainty of fX2O
+    681  I1     ---    matching_flag ? 1–questionable matches; 2–no Gaia matches; 0–others
+683-698  A16    ---    Class         Source class
+700-735  A36    ---    ref           Classification reference
 --------------------------------------------------------------------------------
 Notes:
 --------------------------------------------------------------------------------
