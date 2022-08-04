@@ -18,7 +18,7 @@ This GitHub repo contains a catalog of the multi-wavelength properties of 177 Be
 ./master.csv 
 - This is a csv (comma-separated values) file of the XDBS catalog. 
 
-./data/XDBS.dat
+./XDBS.dat
 - This is an AAS Machine-Readable Table of the XDBS catalog. 
 
 ./XDBS.ipynb
