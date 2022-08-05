@@ -24,10 +24,11 @@ This GitHub repo contains a catalog of the multi-wavelength properties of 177 Be
 ./XDBS.ipynb
 - This is the Python notebook with source code that produces the catalog. 
 
+## Interactive plotting website of the multi-wavelength properties of the catalog available at [https://home.gwu.edu/~kargaltsev/XDBS/](https://home.gwu.edu/~kargaltsev/XDBS/)
+
 ## XDBS catalog column description
 
-![XDBS_column_descriptions.png](https://github.com/huiyang-astro/XDBS/blob/main/XDBS_column_descriptions.png)
+![XDBS_column_descriptions.png](https://github.com/huiyang-astro/XDBS/blob/main/XDBS_column_descriptions.png =x200)
 
-## Interactive plotting website of the multi-wavelength properties of the catalog available at [https://home.gwu.edu/~kargaltsev/XDBS/](https://home.gwu.edu/~kargaltsev/XDBS/)
 
 
