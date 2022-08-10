@@ -24,7 +24,7 @@ This GitHub repository contains a catalog of the multi-wavelength properties of 
 ## Catalog access
 In addition to the data files listed above, we have also made available an interactive website for plotting the multi-wavelength properties of the catalog. It can be found at https://home.gwu.edu/~kargaltsev/XDBS/.
 
-## XDBS catalog column description are provided at [Here!](https://github.com/huiyang-astro/XDBS/blob/main/XDBS_column_descriptions.pdf)
+## XDBS catalog column description are provided at [here.](https://github.com/huiyang-astro/XDBS/blob/main/XDBS_column_descriptions.pdf)
 
 
 
